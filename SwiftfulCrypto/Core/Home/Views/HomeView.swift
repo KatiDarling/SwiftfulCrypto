@@ -15,7 +15,7 @@ struct HomeView: View {
                 .ignoresSafeArea()
             
             VStack {
-                Text("Header")
+                Text("Updated Header")
                 Spacer(minLength: 0)
             }
         }
